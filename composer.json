@@ -55,8 +55,7 @@
         "facebook/xhprof": "dev-master",
         "phpseclib/phpseclib": "~0.3.8",
         "symfony/var-dumper": "~2.6.0",
-        "symfony/yaml": "~2.6.0",
-        "ext-mbstring": "*"
+        "symfony/yaml": "~2.6.0"
     },
     "repositories": [
         {
